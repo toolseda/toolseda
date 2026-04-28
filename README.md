@@ -124,18 +124,18 @@ I recently graduated from an intensive 17-week bootcamp at Dev Academy. My appro
 
 ## 📂 Featured Projects
 
-### 🏗️ ToolShed (Group Project)
+### 🏗️ [ToolShed](https://github.com/toolseda/ToolShed) (Group Project)
 **Why we built this:** Our team wanted to tackle the inefficiency of household waste. We built ToolShed to facilitate a "circular economy," allowing neighbors to list and borrow tools.
 * **My Role:** I led the **Backend API development** and Database architecture. I was responsible for ensuring the relational logic between "Owners" and "Borrowers" remained intact across the app.
 * **Tech:** React, Redux, Express, Knex, SQLite3.
 * **The "Why":** This project demonstrated my ability to work in a high-velocity team, manage complex merge conflicts, and use Kanban boards to hit deadlines.
 
-### 🚵 CycleSnap
+### 🚵 [CycleSnap](https://github.com/toolseda/CycleSnap)
 **Why I built this:** As a rider, I found that weather apps didn't tell the whole story of trail conditions. I built this micro-blog so riders could share real-time updates and gear recommendations.
 * **Tech:** React, Tailwind CSS, Express, Multer for image handling.
 * **The "Why":** I wanted to master **CRUD operations** and external file storage. It taught me how to handle asynchronous data fetching while maintaining a smooth user experience.
 
-### 🧪 RoastRef
+### 🧪 [RoastRef](https://github.com/toolseda/RoastRef)
 **Why I built this:** To move beyond generic "To-Do" list tutorials, I created a specialized coffee tasting journal.
 * **Tech:** React, Material-UI, Express, SQLite3.
 * **The "Why":** I used this project to deep-dive into **complex form state management** and custom UI components (like a dynamic tasting wheel). It shows my attention to detail in UX/UI.
